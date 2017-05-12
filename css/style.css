@@ -61,4 +61,16 @@ body{
 	transform: translate(0,-50%);
 }
 
+#how-it-work{
+	text-align: center;
+	padding: 10px 0 10px 0;
+}
+
+#how-it-work h2{
+	text-transform: uppercase;
+}
+
+
+
+
 

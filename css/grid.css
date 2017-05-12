@@ -2,7 +2,8 @@
  * Cálculo colunas:
  * largura_unica_porcentagem = 100 / maximo_colunas
  *
- * Multiplicamos largura_unica_porcentagem pelo tamanho da coluna
+ * Multiplicamos largura_unica_porcentagem pelo tamanho 
+    da coluna
  */
 
 .container, .container-fluid {
