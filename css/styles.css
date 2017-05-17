@@ -125,7 +125,7 @@ body {
 
 #footer .social a:hover {
     opacity: .5;
-    transition: ease .3s all;
+    transition: ease 2s all;
 }
 
 #footer .social img {
